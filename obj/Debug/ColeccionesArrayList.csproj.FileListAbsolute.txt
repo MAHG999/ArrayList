@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\ColeccionesArrayList\obj\Debug\ColeccionesArrayList.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\ColeccionesArrayList\obj\Debug\ColeccionesArrayList.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ColeccionesArrayList\bin\Debug\ColeccionesArrayList.exe.config
+C:\Users\marco\source\repos\ColeccionesArrayList\bin\Debug\ColeccionesArrayList.exe
+C:\Users\marco\source\repos\ColeccionesArrayList\bin\Debug\ColeccionesArrayList.pdb
+C:\Users\marco\source\repos\ColeccionesArrayList\obj\Debug\ColeccionesArrayList.exe
+C:\Users\marco\source\repos\ColeccionesArrayList\obj\Debug\ColeccionesArrayList.pdb
+E:\Programas en C#\ColeccionesArrayList\bin\Debug\ColeccionesArrayList.exe.config
+E:\Programas en C#\ColeccionesArrayList\bin\Debug\ColeccionesArrayList.exe
+E:\Programas en C#\ColeccionesArrayList\bin\Debug\ColeccionesArrayList.pdb
+E:\Programas en C#\ColeccionesArrayList\obj\Debug\ColeccionesArrayList.csprojAssemblyReference.cache
+E:\Programas en C#\ColeccionesArrayList\obj\Debug\ColeccionesArrayList.csproj.CoreCompileInputs.cache
+E:\Programas en C#\ColeccionesArrayList\obj\Debug\ColeccionesArrayList.exe
+E:\Programas en C#\ColeccionesArrayList\obj\Debug\ColeccionesArrayList.pdb
